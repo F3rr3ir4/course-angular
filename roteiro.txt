@@ -1,3 +1,6 @@
 ng new course-angular
-N
+routing N
+css
 
+
+npm install bootstrap
